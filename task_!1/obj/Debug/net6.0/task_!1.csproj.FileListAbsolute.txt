@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\bin\Debug\net6.0\task_!1.exe
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\bin\Debug\net6.0\task_!1.deps.json
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\bin\Debug\net6.0\task_!1.runtimeconfig.json
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\bin\Debug\net6.0\task_!1.dll
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\bin\Debug\net6.0\task_!1.pdb
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.dll
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\refint\task_!1.dll
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.pdb
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\task_!1.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\task_!1\obj\Debug\net6.0\ref\task_!1.dll
