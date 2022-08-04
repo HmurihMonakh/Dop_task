@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\bin\Debug\net6.0\Na_probu.exe
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\bin\Debug\net6.0\Na_probu.deps.json
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\bin\Debug\net6.0\Na_probu.runtimeconfig.json
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\bin\Debug\net6.0\Na_probu.dll
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\bin\Debug\net6.0\Na_probu.pdb
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.dll
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\refint\Na_probu.dll
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.pdb
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\Na_probu.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\учебаGB\Dop_task\Na_probu\obj\Debug\net6.0\ref\Na_probu.dll
